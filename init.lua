@@ -1,5 +1,5 @@
 minetest.register_tool("ubertool_mod:ubertool", {
-    description = "Provides a combination tool capable of extreme function. Tool is also illuminated.",
+    description = "Provides a combination pick, shovel, and axe tool capable of extreme function. Tool is also illuminated.",
     inventory_image = "uber_tool.png",
     light_source = 17,
     tool_capabilities = {
