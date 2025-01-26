@@ -1,6 +1,6 @@
 Marc Bonomini
 marcbonomini@gmail.com
-LICESENE : CC BY-SA 3.0 
+LICENSE : CC BY-SA 3.0 
 
 Textures are modified versions of textures from minetest game found at: https://github.com/minetest/minetest_game/blob/master/mods/default/README.txt
 License available here: https://creativecommons.org/licenses/by-sa/3.0/us/legalcode.en
